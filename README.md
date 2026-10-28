@@ -43,6 +43,12 @@ Course and lab material in medical imaging, signal processing and instrumentatio
 
 医学图像、信号处理与医学仪器相关课程/实验材料；代码来源与复现边界以仓库说明为准。
 
+### [Medical Data Analysis Coursework in R](https://github.com/ZhangMin3303/r-medical-data-coursework)
+
+Coursework in data cleaning/joins, PCA and right-censored survival analysis. The public example is a later AI-assisted reconstruction using synthetic data and explicit data-quality checks; historical real-data results remain unverified.
+
+R 课程作品集：数据清洗/合并、PCA 与右删失生存分析。公开示例是本轮 AI 辅助重构，使用合成数据与明确的数据质量检查；历史真实数据结果仍未复现核实。教师框架、协作与本人贡献详见仓库说明。
+
 ### More Coursework & Engineering Practice / 更多课程与工程实践
 
 - [MATLAB ML/DL/RL practice](https://github.com/ZhangMin3303/matlab-ml-dl-rl-practice-portfolio) · [AI and intelligent-systems tasks](https://github.com/ZhangMin3303/ai-intelligent-systems-practice-portfolio). Coursework collections; overlapping content is documented and is not counted as independent research. / 课程练习集，重叠内容已说明，不重复计为独立研究。
@@ -62,9 +68,9 @@ The skills below reflect coursework, project exposure and current learning; rese
 
 ### Programming & Tools
 
-Python, MATLAB, C, Git, basic project documentation and reproducible experiment organization.
+Python, MATLAB, R (coursework), C, Git, basic project documentation and reproducible experiment organization.
 
-Python、MATLAB、C、Git，以及基础项目文档与可复现实验整理。
+Python、MATLAB、R（课程）、C、Git，以及基础项目文档与可复现实验整理。
 
 ### AI & Machine Learning
 
@@ -92,6 +98,6 @@ I am preparing for internship opportunities in **healthcare AI, energy AI, pract
 
 ## Portfolio Status / 作品集状态
 
-The links above point to published project repositories. Additional R, 8051 and research materials require separate source, permission and reproducibility review before publication. Local-only pages are not public demos.
+The links above point to published project repositories. Unselected R coursework, 8051 and research materials require separate source, permission and reproducibility review before publication. Local-only pages are not public demos.
 
-上方链接对应已公开项目仓库。R、8051 与研究材料仍需分别核查来源、公开许可和复现情况后再整理；本机页面不是公开 Demo。
+上方链接对应已公开项目仓库。未选入的 R 课程材料、8051 与研究材料仍需分别核查来源、公开许可和复现情况后再整理；本机页面不是公开 Demo。
